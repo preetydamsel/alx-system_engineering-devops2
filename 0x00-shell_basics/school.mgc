@@ -1,4 +1,4 @@
 #!/bin/bash
 O string SCHOOL school data
 !:mime school
-file-c-m school.mgc
+file -c-m school.mgc
